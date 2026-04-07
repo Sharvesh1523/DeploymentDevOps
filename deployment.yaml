@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: dev-ops-react
-          image: sharvesh10/dev-ops-react:9d001e6e
+          image: sharvesh10/dev-ops-react:5f8cdb7c
           ports:
             - containerPort: 80
           resources:
