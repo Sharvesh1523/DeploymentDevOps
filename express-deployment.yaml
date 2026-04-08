@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-order-service
-        image: sharvesh10/express-order-service:48fefe2a
+        image: sharvesh10/express-order-service:7d297de9
         ports:
           - containerPort: 3000
         resources:
